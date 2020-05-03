@@ -1,0 +1,23 @@
+{
+  "name": "fiapdapp",
+  "version": "1.0.0",
+  "description": "Trabalho da FIAP para Smart Contracts - Ethereum",
+  "main": "html/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloMussolini/FiapDApp.git"
+  },
+  "author": "Paulo de Tarso F Mussolini e Equipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauloMussolini/FiapDApp/issues"
+  },
+  "homepage": "https://github.com/PauloMussolini/FiapDApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "web3": "^1.2.6"
+  }
+}
